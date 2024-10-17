@@ -47,7 +47,7 @@ elif Result >= 96 and Result <= 98:
 elif Result >= 93 and  Result <= 95:
     print("Superior! Your Final GPA is 1.50 ")
 elif Result >= 90 and  Result <= 92:
-    print("VeryGood! Your Final GPA is 1.50 ")
+    print("VeryGood! Your Final GPA is 1.75 ")
 elif Result >= 87 and  Result <= 89:
     print("Good! Your Final GPA is 2.00 ")
 elif Result >= 84 and  Result <= 86:
