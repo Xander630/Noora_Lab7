@@ -61,4 +61,4 @@ elif Result >= 75 and  Result <= 77:
 elif Result < 75 and  Result >= 40:
     print("Sorry You Failed, Your Final GPA is 5.00 ")
 else:
-    print("Invalid Grade Your grade should be greater than 40 and less than 100")
+    print("Invalid Grade Your grade should be greater than or equal to 40 and less than or equal to 100")
