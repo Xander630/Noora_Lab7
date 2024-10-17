@@ -38,6 +38,7 @@ Average = (Prelim+Midterm+Finals)
 Result = round(Average)
 print("\nYour Name: "+Name)
 print("Your Section: "+Section)
+print("Your Final Grade: "+Result)
 
 
 if Result >= 99 and Result <= 100:
